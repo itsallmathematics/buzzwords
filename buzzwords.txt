@@ -1,0 +1,137 @@
+cloud
+service
+microservice
+service fabric
+service mesh
+multi tenant
+distributed
+edge
+management
+continuous
+deploy
+release
+platform
+solution
+use case
+sprint
+epic
+deployment
+launch
+workflow
+hybrid
+enterprise
+transactional
+middleware
+integration
+module
+client
+server
+message
+protocol
+rule based
+engine
+mediation
+routing
+API
+framework
+backend
+frontend
+RESTful
+state
+functional
+message based
+interface
+controller
+packet
+driver
+throughput
+multithreaded
+optimization
+data-driven
+mapping
+cloud based
+military grade
+zero trust
+threat intelligence
+threat actor
+nation state
+malicious actor
+ransomware
+state level
+workforce
+secure
+enterprise grade
+threat
+cyber threat
+hardened
+hosts
+containers
+container first
+cluster
+serverless
+stack
+full stack
+compliance
+scale
+architecture
+analytics
+machine learning
+automation
+endpoint
+pipeline
+ecosystem
+virtual
+elastic
+sql
+nosql
+infrastructure
+infra
+software as a service
+infrastructure as a service
+platform as a service
+ransomware as a service
+purpose-built
+dataset
+deployable
+at scale
+model
+continuous integration
+continuous delivery
+predictive
+dynamically typed
+static typed
+capabilities
+powerful
+fast
+robust
+meta
+meta programming
+compile time
+just in time
+runtime
+domain specific
+data store
+hierarchical
+versioning
+broker
+consumer
+capabilities
+cluster centric
+fault tolerant
+fault tolerance
+persistent
+persisted
+virtual private
+sharding
+transaction
+distribution
+rich
+richness
+instance
+object
+instantiate
+orchestration
+container orchestration
+scalability
+provisioning
+node
