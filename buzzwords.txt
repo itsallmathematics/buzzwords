@@ -139,3 +139,4 @@ end to end
 decentralized
 crypto
 blockchain
+stateless
