@@ -1,4 +1,4 @@
-# buzzwords
+# list of tech buzzwords
 
 > A buzzword is a word or phrase, new or already existing, that becomes popular for a period of time. Buzzwords often derive from technical terms yet often have much of the original technical meaning removed through fashionable use, being simply used to impress others.
 > - Wikipedia
