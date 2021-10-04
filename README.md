@@ -8,6 +8,33 @@ This repository aims to house a comprehensive list of current (and eventually, p
 Examples: cloud, service, service fabric, service mesh, cloud-native, multi-tenant, microservice, etc...
 
 
+# /scripts directory
+
+Scripts that do very serious things with this wordlist.
+
+## checkoutmy.py
+Sample output:
+
+> Hey bro, check out my functional solution
+> 
+> Hey bro, check out my message based mapping
+> 
+> Hey bro, check out my capabilities client
+> 
+> Hey bro, check out my multi tenant hybrid
+> 
+> Hey bro, check out my distribution capabilities
+> 
+> Hey bro, check out my use case routing
+> 
+> Hey bro, check out my sprint protocol
+> 
+> Hey bro, check out my middleware integration
+> 
+> Hey bro, check out my mediation orchestration
+> 
+> Hey bro, check out my edge middleware
+
 # Contributing
 
 Just send a PR; don't be afraid!
